@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using Ruby's `instance_variable_get` method. The `bug.rb` file showcases the issue of attempting to access a non-existent instance variable which results in a `NameError` exception. The `bugSolution.rb` file offers solutions to prevent this.
